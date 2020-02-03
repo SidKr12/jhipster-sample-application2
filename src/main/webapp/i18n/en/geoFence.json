@@ -1,0 +1,29 @@
+{
+  "jhipsterSampleApplication2App": {
+    "geoFence": {
+      "home": {
+        "title": "Geo Fences",
+        "createLabel": "Create a new Geo Fence",
+        "createOrEditLabel": "Create or edit a Geo Fence",
+        "notFound": "No Geo Fences found"
+      },
+      "created": "A new Geo Fence is created with identifier {{ param }}",
+      "updated": "A Geo Fence is updated with identifier {{ param }}",
+      "deleted": "A Geo Fence is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Geo Fence {{ id }}?"
+      },
+      "detail": {
+        "title": "Geo Fence"
+      },
+      "fenceID": "Fence ID",
+      "name": "Name",
+      "fencecode": "Fencecode",
+      "type": "Type",
+      "createdBy": "Created By",
+      "createdTime": "Created Time",
+      "modifiedBy": "Modified By",
+      "modifiedTime": "Modified Time"
+    }
+  }
+}
